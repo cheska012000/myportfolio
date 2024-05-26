@@ -1,21 +1,21 @@
 import React from 'react';
-import './Services.css'; // Make sure you have a corresponding CSS file for styling
+import './Services.css'; 
 
 const services = [
   {
     title: "General Programming",
     description: "Providing comprehensive programming solutions across various languages and platforms.",
-    image: "programming.jpg", // Adjust the path according to your project structure
+    image: "programming.jpg", 
   },
   {
     title: "Web Development",
     description: "Creating responsive and modern websites tailored to your needs.",
-    image: "webdevelopment.jpg", // Adjust the path according to your project structure
+    image: "webdevelopment.jpg", 
   },
   {
     title: "Mobile Apps",
     description: "Designing and developing user-friendly mobile applications for Android and iOS.",
-    image: "mobileapps.jpg", // Adjust the path according to your project structure
+    image: "mobileapps.jpg", 
   },
 ];
 

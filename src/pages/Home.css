@@ -27,22 +27,22 @@
     font-size: 1.2em;
     margin-bottom: 20px;
     color: #666;
-    max-width: 600px; /* Optional: to constrain the width of the text */
+    max-width: 600px; 
     line-height: 1.5;
   }
   
   .home-button {
     padding: 10px 20px;
-    background-color: #a6855c; /* Matching logo color */
+    background-color: #a6855c; 
     color: white;
     text-decoration: none;
     border-radius: 5px;
     font-size: 16px;
-    font-weight: bold; /* Make the button text bold */
+    font-weight: bold; 
     transition: background-color 0.3s ease;
   }
   
   .home-button:hover {
-    background-color: #8B4513; /* Slightly darker shade for hover effect */
+    background-color: #8B4513; 
   }
   

@@ -1,8 +1,8 @@
 // src/components/Navigation.js
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../assets/logo.png'; // Ensure the path to your logo is correct
-import './Navigation.css'; // Ensure the path to your CSS file is correct
+import logo from '../assets/logo.png'; 
+import './Navigation.css'; 
 
 const Navigation = () => (
   <nav className="navigation">
