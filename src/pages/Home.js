@@ -1,3 +1,12 @@
+/* src/pages/Home.js */
+
+/**
+ * File name: Home.js
+ * Student's Name: Cheska L. Mendoza
+ * Student ID: 301352449
+ * Date: 05/24/24
+ */
+
 import React from 'react';
 import './Home.css';
 import logo from '../assets/logo.png'; 

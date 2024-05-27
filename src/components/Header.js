@@ -1,4 +1,12 @@
 // src/components/Header.js
+
+/**
+ * File name: Header.js
+ * Student's Name: Cheska L. Mendoza
+ * Student ID: 301352449
+ * Date: 05/24/24
+ */
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../assets/image1';

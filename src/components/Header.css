@@ -1,4 +1,12 @@
 /* src/components/Header.css */
+
+/**
+ * File name: Header.css
+ * Student's Name: Cheska L. Mendoza
+ * Student ID: 301352449
+ * Date: 05/24/24
+ */
+
 .header {
     display: flex;
     justify-content: space-between;

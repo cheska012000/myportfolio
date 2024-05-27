@@ -1,4 +1,11 @@
 // src/App.js
+
+/**
+ * File name: App.css
+ * Student's Name: Cheska L. Mendoza
+ * Student ID: 301352449
+ * Date: 05/24/24
+ */
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navigation from './components/Navigation';

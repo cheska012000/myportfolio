@@ -1,3 +1,12 @@
+/* src/Index.js */
+
+/**
+ * File name: Index.js
+ * Student's Name: Cheska L. Mendoza
+ * Student ID: 301352449
+ * Date: 05/24/24
+ */
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

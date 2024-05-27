@@ -1,3 +1,12 @@
+/* src/pages/Projects.js */
+
+/**
+ * File name: Projects.js
+ * Student's Name: Cheska L. Mendoza
+ * Student ID: 301352449
+ * Date: 05/24/24
+ */
+
 import React from 'react';
 import './Projects.css';
 import project1 from '../assets/project1.png';
