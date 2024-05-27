@@ -1,7 +1,7 @@
 // src/App.js
 
 /**
- * File name: App.css
+ * File name: App.js
  * Student's Name: Cheska L. Mendoza
  * Student ID: 301352449
  * Date: 05/24/24
