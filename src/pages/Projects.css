@@ -59,7 +59,7 @@ body {
 
 .project-title {
   font-size: 1.5em;
-  color: #8B4513; /* Rich Brown */
+  color: #3D4E17; 
   margin-bottom: 10px;
 }
 
@@ -67,3 +67,10 @@ body {
   font-size: 1.1em;
   color: #555;
 }
+
+.project-status {
+  font-size: 14px;
+  color: #3D4E17;
+  margin-top: 10px;
+}
+

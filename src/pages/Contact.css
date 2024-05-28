@@ -40,7 +40,7 @@ body {
 
 .contact-panel h2 {
   font-size: 1.5em;
-  color: #8B4513; 
+  color:  #3D4E17; 
   margin-bottom: 10px;
 }
 
@@ -87,7 +87,7 @@ body {
 .submit-button {
   display: inline-block;
   padding: 12px 25px;
-  background-color:  #a6855c;
+  background-color:  #C7A003;
   color: #fff;
   text-decoration: none;
   border: none;
@@ -98,6 +98,6 @@ body {
 }
 
 .submit-button:hover {
-  background-color:  #8B4513;
+  background-color:  #EDE599;
   color: #fff;
 }

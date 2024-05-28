@@ -13,17 +13,17 @@ import './Services.css';
 const services = [
   {
     title: "General Programming",
-    description: "Providing comprehensive programming solutions across various languages and platforms.",
+    description: "Offering versatile programming solutions across multiple languages including Java, C#, Python, and JavaScript. Expertise in full-stack development, database management, and cloud integration.",
     image: "programming.jpg", 
   },
   {
     title: "Web Development",
-    description: "Creating responsive and modern websites tailored to your needs.",
+    description: "Creating modern, responsive websites with a focus on user experience and performance. Specializing in HTML, CSS, JavaScript, React, and backend solutions with Node.js",
     image: "webdevelopment.jpg", 
   },
   {
     title: "Mobile Apps",
-    description: "Designing and developing user-friendly mobile applications for Android and iOS.",
+    description: "Designing and developing intuitive mobile applications for both Android and iOS platforms. Proficient in Swift, Kotlin, Flutter, and React Native, ensuring seamless performance and user-friendly interfaces.",
     image: "mobileapps.jpg", 
   },
 ];
@@ -31,7 +31,7 @@ const services = [
 const Services = () => {
   return (
     <div className="services-container">
-      <h1 className="services-title">Services</h1>
+      <h1 className="services-title">My Services</h1>
       <div className="services-list">
         {services.map((service, index) => (
           <div key={index} className="service-item">
@@ -46,3 +46,4 @@ const Services = () => {
 }
 
 export default Services;
+

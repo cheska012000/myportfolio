@@ -51,7 +51,7 @@ body {
   display: inline-block;
   margin-top: 20px;
   padding: 12px 25px;
-  background-color: #a6855c;
+  background-color: #C7A003;
   color: #fff;
   text-decoration: none;
   border-radius: 5px;
@@ -60,7 +60,7 @@ body {
 }
 
 .resume-link:hover {
-  background-color: #8B4513;
+  background-color: #EDE599;
   color: #fff;
 }
 

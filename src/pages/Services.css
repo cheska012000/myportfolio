@@ -1,4 +1,4 @@
-/* src/pages/Services.css */
+src/pages/Services.css
 
 /**
  * File name: Services.css
@@ -59,7 +59,7 @@ body {
 
 .service-title {
   font-size: 1.5em;
-  color: #8B4513; /* Rich Brown */
+  color:  #3D4E17; 
   margin-bottom: 10px;
 }
 

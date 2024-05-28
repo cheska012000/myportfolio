@@ -41,7 +41,7 @@
   
   .home-button {
     padding: 10px 20px;
-    background-color: #a6855c; 
+    background-color: #C7A003; 
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -51,6 +51,6 @@
   }
   
   .home-button:hover {
-    background-color: #8B4513; 
+    background-color: #EDE599; 
   }
   
