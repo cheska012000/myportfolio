@@ -1,4 +1,4 @@
-// src/App.js
+/* src/App.js
 
 /**
  * File name: App.js

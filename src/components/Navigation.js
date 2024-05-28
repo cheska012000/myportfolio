@@ -1,4 +1,4 @@
-// src/components/Navigation.js
+/* src/components/Navigation.js
 
 /**
  * File name: Navigation.js
